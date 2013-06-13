@@ -1,3 +1,4 @@
+<?php
 /*
   Plugin Name: UnStoopid SVG 
   Plugin URI: https://github.com/jasonknight/unstoopid-svg
